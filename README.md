@@ -41,5 +41,5 @@ Despite having the best overall result, Gradient Boosting is time consuming to b
 - Trying XGBoost
 
 # Credits
-https://www.analyticsvidhya.com/blog/2020/03/what-is-multicollinearity/ for VIF codes
-https://github.com/kohjiaxuan/Predicting-HDB-Price-with-Machine-Learning for project ideas and guidance
+- https://www.analyticsvidhya.com/blog/2020/03/what-is-multicollinearity/ for VIF codes
+- https://github.com/kohjiaxuan/Predicting-HDB-Price-with-Machine-Learning for project ideas and guidance
