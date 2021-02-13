@@ -21,7 +21,7 @@ Using the One Hot Encoded Dataset, a Decision Tree was fit to the data using hig
 Decision Tree gave a R2 of 90% with RMSE of $44,500
 
 The Random Forest used the same dataset with n_estimators set to 200.
-Random Forest gave a R2 of 91.67% with RMSE of $40,640.
+Random Forest gave a R2 of 91.68% with RMSE of $40,619.
 
 Both Decision Treee and Random Forest gave better results than Linear Regression. This might be better for real world application as it is more interpertable and less trade off between time taken for model building and R2 score
 
@@ -37,5 +37,5 @@ Despite having the best overall result, Gradient Boosting is time consuming to b
 # Future Improvements/Ideas
 - Normalising Data
 - Feature Selection
-- Trying more parameters on GridSearchCV
+- Trying more parameters on GridSearchCV and higher fold cross validation (currently only 2)
 - Trying XGBoost
